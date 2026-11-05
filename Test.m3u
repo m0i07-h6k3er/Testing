@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Türkmeneli Tv" tvg-logo="https://imagecdn.turkmenelitv.com/logo-turk.png" group-title="House - Channels | قنوات البيت",Türkmeneli Tv
+https://turkmeneli-live.b-cdn.net/hls/main2/playlist.m3u8
